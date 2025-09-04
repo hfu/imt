@@ -10,6 +10,10 @@ IMT (Interactive Map Tiles) is a minimalist web-based map viewer that allows use
 
 - **Live Demo**: [https://hfu.github.io/imt/](https://hfu.github.io/imt/)
 - **Demo with Custom Data**: [https://hfu.github.io/imt/?tilejson=https://tunnel.optgeo.org/martin/HOT-Jamata-Cockle-Bay-Freetown](https://hfu.github.io/imt/?tilejson=https://tunnel.optgeo.org/martin/HOT-Jamata-Cockle-Bay-Freetown)
+- **Demo with Location Hash**: [https://hfu.github.io/imt/?tilejson=https://tunnel.optgeo.org/martin/maxar-2020-freetown#13.87/8.46905/-13.24495](https://hfu.github.io/imt/?tilejson=https://tunnel.optgeo.org/martin/maxar-2020-freetown#13.87/8.46905/-13.24495)
+- **Demo with Specific Location**: [https://hfu.github.io/imt/#17.55/8.488833/-13.271331](https://hfu.github.io/imt/#17.55/8.488833/-13.271331)
+- **3D Demo with Custom Data**: [https://hfu.github.io/imt/3d.html?tilejson=https://tunnel.optgeo.org/martin/maxar-2020-freetown#13.87/8.46905/-13.24495/165.9/53](https://hfu.github.io/imt/3d.html?tilejson=https://tunnel.optgeo.org/martin/maxar-2020-freetown#13.87/8.46905/-13.24495/165.9/53)
+- **3D Demo with Location**: [https://hfu.github.io/imt/3d.html#17.55/8.488833/-13.271331/0/53](https://hfu.github.io/imt/3d.html#17.55/8.488833/-13.271331/0/53)
 
 ## Usage
 
